@@ -100,7 +100,7 @@
                                 <span>Báo Lỗi</span>
                             </span>
                             <div class="video-btn"><i class="fa fa-eye"></i>
-                                <span>{{ $currentMovie->view_total }}</span> lượt xem
+                                <span>{{ motchill_format_view($currentMovie->view_total) }}</span> lượt xem
                             </div>
                             {{-- <div class="video-btn onclick="onclick="goToNextEpisode()">
                                 <i class="fa fa-arrow-right"></i>

@@ -97,7 +97,7 @@
                                     <div class="bg-[#222222]">
                                         <dl>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Trạng thái
                                                 </dt>
                                                 <dd class="mt-1 text-sm text-gray-300 col-span-2 md:mt-0">
@@ -107,7 +107,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Đạo Diễn
                                                 </dt>
                                                 <dd class="text-sm text-gray-300 col-span-2">
@@ -125,7 +125,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Thời Lượng
                                                 </dt>
                                                 <dd class="text-sm text-gray-300 col-span-2">
@@ -133,7 +133,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Số Tập
                                                 </dt>
                                                 <dd class="mt-1 text-sm text-gray-300 col-span-2 md:mt-0">
@@ -141,7 +141,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Ngôn Ngữ
                                                 </dt>
                                                 <dd class="text-sm text-gray-300 col-span-2">
@@ -149,7 +149,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Năm Sản Xuất
                                                 </dt>
                                                 <dd class="text-sm text-gray-300 col-span-2">
@@ -157,7 +157,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Quốc gia
                                                 </dt>
                                                 <dd class="text-sm text-zinc-200 col-span-2">
@@ -173,7 +173,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Thể Loại
                                                 </dt>
                                                 <dd class="text-sm text-zinc-200 col-span-2">
@@ -191,7 +191,7 @@
                                                 </dd>
                                             </div>
                                             <div class="px-2 py-2 grid grid-cols-3 md:gap-2 md:px-3">
-                                                <dt class="text-sm font-medium text-[#A3765D]">
+                                                <dt class="text-sm font-medium text-gray-400">
                                                     Lượt xem
                                                 </dt>
                                                 <dd class="mt-1 text-sm text-gray-300 col-span-2 md:mt-0">

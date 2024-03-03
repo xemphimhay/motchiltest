@@ -1067,7 +1067,6 @@ textarea.form-control {
   display: block;
   padding: 8px;
   text-align: center;
-  width: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
   -o-text-overflow: ellipsis;
